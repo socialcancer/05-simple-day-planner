@@ -14,6 +14,6 @@ The User must input text into each block and hit the lock to save to local stora
 
 ## Technologies
 
-[Bootsrap] - (https://getbootstrap.com/)
-[Moment.js] - (https://momentjs.com/)
-[Lock anitation] - (https://codepen.io/skwintz/pen/GQgwbx)
+- [Bootsrap] - (https://getbootstrap.com/)
+- [Moment.js] - (https://momentjs.com/)
+- [Lock anitation] - (https://codepen.io/skwintz/pen/GQgwbx)
